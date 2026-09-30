@@ -1,122 +1,90 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Abimael%20Udayakumar&fontSize=42&fontAlignY=35&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abimael+Udayakumar+%F0%9F%91%8B;BCA+Full+Stack+AI+Development+%F0%9F%92%BB;Aspiring+Full+Stack+%26+AI+Developer+%F0%9F%A4%96;Learning%2C+Building+%26+Improving+Every+Day+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=BCA+Full+Stack+AI+Development+Student;Aspiring+Full+Stack+%26+AI+Developer;Learning+Python+%26+C%2B%2B;Building+My+Future+Step+by+Step" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👋 About Me
 
-🎓 **BCA Full Stack AI Development Student**
-
-💻 Aspiring **Full Stack & AI Developer**
-
-🐍 Currently learning **Python**
-
-⚡ Learning **C++**
-
-📐 Studying **Mathematics**
-
-💻 Studying **Operating Systems**
-
-🗣️ Improving **Communication & English**
-
-📊 Learning **Management**
-
-🤖 Interested in **Artificial Intelligence**
-
-🌱 Focused on continuous learning and personal growth
+🎓 BCA Full Stack AI Development Student
+💻 Aspiring Full Stack & AI Developer
+🌱 Learning, building and improving every day
 
 ---
 
-# 🛠️ Tech Stack
+## 📚 Currently Studying
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,git,github,vscode&perline=8" />
+📐 Mathematics   •  
+💻 Operating Systems   •  
+🐍 Python   •  
+⚡ C++   •  
+🗣️ Communication & English   •  
+📊 Management
 
 </p>
 
 ---
 
-# 📚 Currently Studying
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,git,github,vscode&perline=8" />
+</p>
+
+---
+
+## 💻 What I'm Building
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00C853&center=true&vCenter=true&width=700&lines=Learning+Programming;Practicing+Python;Improving+C%2B%2B;Exploring+AI;Building+Projects;Growing+as+a+Developer" />
+</p>
+
+---
+
+## 🎯 Goals
 
 <p align="center">
 
-📐 **Mathematics**    •   
-💻 **Operating Systems**    •   
-🐍 **Python**    •   
-⚡ **C++**
-
-<br><br>
-
-🗣️ **Communication & English**    •   
-📊 **Management**
+🚀 Become a Good Developer
+🤖 Learn AI & Full Stack Development
+💻 Build Real-World Projects
+🧠 Improve Problem Solving
+🗣️ Improve Communication
+🌱 Keep Growing Every Day
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 💡 Developer Mindset
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abimaeludayakumarp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimaeludayakumarp&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+**LEARN → BUILD → IMPROVE → GROW**
+
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abimaeludayakumarp&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abimaeludayakumarp/abimaeludayakumarp/gh-pages/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/abimaeludayakumarp/abimaeludayakumarp/gh-pages/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
 ---
 
-# 🎯 Goals
-
-* 🚀 Become a skilled and reliable Full Stack Developer
-* 🤖 Build strong knowledge in AI and modern technologies
-* 💻 Improve my coding and problem-solving skills every day
-* 🧠 Keep learning and building real-world projects
-* 🗣️ Improve my communication and English skills
-* 📚 Build a strong foundation in computer science
-* 🌱 Grow continuously as a developer and as a person
-* 🏆 Build a successful career through consistency, discipline and hard work
-* 🤝 Create projects that are useful and meaningful
-* ⭐ Become the best version of myself and a developer I can be proud of
-
-> **"Learn. Build. Improve. Repeat."**
-
----
-
-# 💡 Developer Mindset
-
-> **Every expert was once a beginner.**
-
-I believe that consistent learning, practice and patience are the keys to becoming a better developer.
-
-I'm focusing on building my skills step by step, creating real projects and becoming better every day.
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
@@ -132,10 +100,12 @@ I'm focusing on building my skills step by step, creating real projects and beco
 
 ---
 
-# 🚀 Keep Learning. Keep Building.
-
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%92%BB;Keep+Growing+%F0%9F%8C%B1" />
 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </p>
