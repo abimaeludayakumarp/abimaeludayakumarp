@@ -102,13 +102,15 @@
 
 ---
 
-# 🐍 Contribution Activity
+
+🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://abimaeludayakumar.github.io/abimaeludayakumar/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/abimaeludayakumar/abimaeludayakumar/gh-pages/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake" />
 
 </div>
+
 
 ---
 
