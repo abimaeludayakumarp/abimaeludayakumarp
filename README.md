@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abimaeludayakumarp/abimaeludayakumarp/gh-pages/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://abimaeludayakumar.github.io/abimaeludayakumar/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake" />
 
 </div>
 
