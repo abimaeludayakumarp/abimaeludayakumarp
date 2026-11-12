@@ -102,7 +102,13 @@
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abimaeludayakumarp&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abimaeludayakumarp&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 # 📫 Connect With Me
 
