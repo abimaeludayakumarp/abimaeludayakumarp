@@ -102,14 +102,7 @@
 
 ---
 
-## 📊 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/abimaeludayakumarp" alt="GitHub Contributions" width="100%" />
-</p>
-</p>
-
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abimaeludayakumarp&theme=tokyonight&hide_border=true" />
 
 # 📫 Connect With Me
 
